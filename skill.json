@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agentic-commerce-ap2-payment-delegation-vault-skill",
+  "version": "1.0.0",
+  "description": "GenPark Agentic Commerce AP2 Payment Delegation Vault - Manages Agentic Payment Protocol ephemeral tokens with cryptographic spend mandates and risk scoring.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "agentic-commerce",
+    "ap2-protocol",
+    "agentic-payment",
+    "delegation-vault",
+    "mcp"
+  ]
+}
